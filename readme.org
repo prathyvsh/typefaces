@@ -24,6 +24,29 @@ A catalog of open source typefaces with their repos
 
 The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elstob) is based on the Double Pica commissioned by Bishop John Fell in the seventeenth century. Elstob is designed as a webfont.
 
+** [[https://github.com/TiroTypeworks/Castoro][Castoro]]
+[[https://raw.githubusercontent.com/TiroTypeworks/Castoro/2d59217b32e1b6822f7417c40521875a21f77b79/CastoroBanner.png]]
+
+** [[https://github.com/TiroTypeworks/Slabo][Slabo]]
+
+** [[https://github.com/Etcetera-Type-Co/Tourney][Tourney]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Tourney/3ed8c9bb7cdd2902fc0469884d6c614bea6490a5/img-tourney.png]]
+
+** [[https://github.com/Etcetera-Type-Co/Anybody/][Anybody]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Anybody/e9d59034e441214747237f3c14cf0f8e587e138f/img-anybody.png]]
+
+** [[https://github.com/Etcetera-Type-Co/Imbue/][Imbue]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Imbue/d7e33961ee8b5e8e519a91a4d7db8d3dc4b98137/img-imbue.png]]
+
+** [[https://github.com/Etcetera-Type-Co/Gluten/][Gluten]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Gluten/a811c25d0a2e8b08e29f85958d7defb82a11d5f6/img-gluten.png]]
+
+** [[https://github.com/Etcetera-Type-Co/Trispace/][Trispace]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Trispace/d56203fa9b3b452b8293f1209b824bd782bbc62e/img-trispace.png]]
+
+** [[https://github.com/Etcetera-Type-Co/Grandstander/][Grandstander]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Grandstander/93e8b4ad1b4a8f563f6dfa533cb1f850fd89c83e/img-grandstander.png]]
+
 ** [[https://github.com/marcologous/hanken-grotesk][Hanken Grotesk]]
 [[https://raw.githubusercontent.com/marcologous/hanken-grotesk/04e258149dfad96cebcdb73db3f47abad1496be3/images/HankenGrotesk_1.jpg]]
 
