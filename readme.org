@@ -1,0 +1,36 @@
+* Typefaces
+
+A catalog of open source typefaces with their repos
+
+** [[https://github.com/psb1558/Elstob-font][Elstob]]
+[[https://raw.githubusercontent.com/psb1558/Elstob-font/4b77f4f66b956b60ea5756e7e8663ddb0043d20c/images/Elstob_Header.png]]
+
+** [[https://github.com/psb1558/Junicode-New][Junicode]]
+[[https://raw.githubusercontent.com/psb1558/Junicode-New/ec5937b13f11116d391c1cb91eab6a9bd869bc30/sample-image-half.jpg]]
+
+** [[https://github.com/psb1558/Joscelyn-font][Joscelyn]]
+[[https://raw.githubusercontent.com/psb1558/Joscelyn-font/219befa5440173fd127e4805079af214e09c7bb1/images/Sample.jpg]]
+
+** [[https://github.com/psb1558/Eadui-Font][Eadui]]
+
+** [[https://github.com/psb1558/BeowulfOT-font][Beowulf OT]]
+[[https://raw.githubusercontent.com/psb1558/BeowulfOT-font/2c1c04a8d0a3730919de6f1d04e4eb19f3dcedef/images/placard.png]]
+
+** [[https://github.com/psb1558/ParkerChronicle-font][Parker Chronicle]]
+[[https://raw.githubusercontent.com/psb1558/ParkerChronicle-font/7413069ba9f43c1b15f068498e7296179cfd33f1/images/placard.png]]
+
+** [[https://github.com/psb1558/Cissanthemos-font][Cissanthemos]]
+[[https://raw.githubusercontent.com/psb1558/Cissanthemos-font/bd6317e62cb4eca789c15b99458166d70aad2081/images/placard.jpg]]
+
+The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elstob) is based on the Double Pica commissioned by Bishop John Fell in the seventeenth century. Elstob is designed as a webfont.
+
+** [[https://github.com/marcologous/hanken-grotesk][Hanken Grotesk]]
+[[https://raw.githubusercontent.com/marcologous/hanken-grotesk/04e258149dfad96cebcdb73db3f47abad1496be3/images/HankenGrotesk_1.jpg]]
+
+** [[https://github.com/marcologous/genome][Genome]]
+
+** [[https://github.com/marcologous/Open-Sauce-Fonts][Open Sauce]]
+[[https://raw.githubusercontent.com/marcologous/Open-Sauce-Fonts/d06022debcc5bbb971a21336ff04b2393e7570ce/Images/OpenSauce_3.jpg]]
+
+** [[https://github.com/Etcetera-Type-Co/Epilogue][Epilogue]]
+[[https://raw.githubusercontent.com/Etcetera-Type-Co/Epilogue/08805133c968e7b0cf8825aa02eb70b888c8fc2d/img-epilogue.png]]
