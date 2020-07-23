@@ -57,3 +57,8 @@ The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elsto
 
 ** [[https://github.com/Etcetera-Type-Co/Epilogue][Epilogue]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Epilogue/08805133c968e7b0cf8825aa02eb70b888c8fc2d/img-epilogue.png]]
+
+** [[https://github.com/CatharsisFonts/Ysabeau][Ysabeau Typeface Project]]
+
+** [[https://github.com/CatharsisFonts/Cormorant/][Cormorant]]
+[[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a0389328579883.55c877c0e7701.jpg]]
