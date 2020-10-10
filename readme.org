@@ -62,3 +62,6 @@ The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elsto
 
 ** [[https://github.com/CatharsisFonts/Cormorant/][Cormorant]]
 [[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a0389328579883.55c877c0e7701.jpg]]
+
+** [[https://juliamono.netlify.app/][Juliana Mono]]
+Repo: https://github.com/cormullion/juliamono
