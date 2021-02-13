@@ -35,6 +35,11 @@ The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elsto
 ** [[https://github.com/Etcetera-Type-Co/Anybody/][Anybody]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Anybody/e9d59034e441214747237f3c14cf0f8e587e138f/img-anybody.png]]
 
+** [[https://github.com/huertatipografica/piazzolla][Piazzolla]]
+[[https://raw.githubusercontent.com/huertatipografica/piazzolla/master/extra/Piazzolla.png]]
+
+Type system intended for optimizing the available space in press media and other publications. It has a compact appearance which allows for small font sizes and tight leading while achieving solid lines and robust paragraphs.
+
 ** [[https://github.com/Etcetera-Type-Co/Imbue/][Imbue]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Imbue/d7e33961ee8b5e8e519a91a4d7db8d3dc4b98137/img-imbue.png]]
 
