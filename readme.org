@@ -13,6 +13,8 @@ A catalog of open source typefaces with their repos
 
 ** [[https://github.com/psb1558/Eadui-Font][Eadui]]
 
+** [[https://github.com/productiontype/Newsreader][Newsreader]]
+
 ** [[https://github.com/psb1558/BeowulfOT-font][Beowulf OT]]
 [[https://raw.githubusercontent.com/psb1558/BeowulfOT-font/2c1c04a8d0a3730919de6f1d04e4eb19f3dcedef/images/placard.png]]
 
