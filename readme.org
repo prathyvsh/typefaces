@@ -45,6 +45,9 @@ Type system intended for optimizing the available space in press media and other
 ** [[https://github.com/Etcetera-Type-Co/Imbue/][Imbue]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Imbue/d7e33961ee8b5e8e519a91a4d7db8d3dc4b98137/img-imbue.png]]
 
+** [[https://github.com/weiweihuanghuang/Prodigy-Sans][Prodigy Sans]]
+[[https://raw.githubusercontent.com/weiweihuanghuang/Prodigy-Sans/master/documentation/preview.png]]
+
 ** [[https://github.com/Etcetera-Type-Co/Gluten/][Gluten]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Gluten/a811c25d0a2e8b08e29f85958d7defb82a11d5f6/img-gluten.png]]
 
