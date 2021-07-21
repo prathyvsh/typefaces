@@ -75,3 +75,6 @@ Type system intended for optimizing the available space in press media and other
 
 ** [[https://juliamono.netlify.app/][Juliana Mono]]
 Repo: https://github.com/cormullion/juliamono
+
+** [[https://github.com/slavfox/Cozette][Cozette]]
+[[https://raw.githubusercontent.com/slavfox/Cozette/master/img/sample.png]]
