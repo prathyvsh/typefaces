@@ -31,6 +31,8 @@ The Elstob font (named for the eighteenth-century Anglo-Saxonist Elizabeth Elsto
 
 ** [[https://github.com/TiroTypeworks/Slabo][Slabo]]
 
+** [[https://www.paratype.com/fonts/pt/pt-root-ui][PT Root UI]]
+
 ** [[https://github.com/Etcetera-Type-Co/Tourney][Tourney]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Tourney/3ed8c9bb7cdd2902fc0469884d6c614bea6490a5/img-tourney.png]]
 
