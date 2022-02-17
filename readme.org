@@ -53,6 +53,9 @@ Type system intended for optimizing the available space in press media and other
 ** [[https://github.com/Etcetera-Type-Co/Gluten/][Gluten]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Gluten/a811c25d0a2e8b08e29f85958d7defb82a11d5f6/img-gluten.png]]
 
+** [[https://github.com/floriankarsten/montagu-slab][Montagu Slab]]
+[[https://raw.githubusercontent.com/floriankarsten/montagu-slab/master/Documentation/image1.png]]
+
 ** [[https://github.com/Etcetera-Type-Co/Trispace/][Trispace]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Trispace/d56203fa9b3b452b8293f1209b824bd782bbc62e/img-trispace.png]]
 
