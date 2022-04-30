@@ -56,6 +56,9 @@ Type system intended for optimizing the available space in press media and other
 ** [[https://github.com/floriankarsten/montagu-slab][Montagu Slab]]
 [[https://raw.githubusercontent.com/floriankarsten/montagu-slab/master/Documentation/image1.png]]
 
+** [[https://github.com/evilmartians/mono][Mono]]
+[[https://github.com/evilmartians/mono/raw/main/images/martian-mono-0.9.0-character-set.png]]
+
 ** [[https://github.com/Etcetera-Type-Co/Trispace/][Trispace]]
 [[https://raw.githubusercontent.com/Etcetera-Type-Co/Trispace/d56203fa9b3b452b8293f1209b824bd782bbc62e/img-trispace.png]]
 
