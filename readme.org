@@ -13,6 +13,9 @@ A catalog of open source typefaces with their repos
 
 ** [[https://github.com/psb1558/Eadui-Font][Eadui]]
 
+** [[https://webonastick.com/fonts/routed-gothic/][Routed Gothic]]
+[[./img/routed-gothic.png]]
+
 ** [[https://github.com/productiontype/Newsreader][Newsreader]]
 
 ** [[https://github.com/psb1558/BeowulfOT-font][Beowulf OT]]
